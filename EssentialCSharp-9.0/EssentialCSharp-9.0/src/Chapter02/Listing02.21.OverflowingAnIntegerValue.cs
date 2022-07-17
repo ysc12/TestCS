@@ -13,3 +13,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_21
     }
     #endregion INCLUDE
 }
+
+//int 의 최고값

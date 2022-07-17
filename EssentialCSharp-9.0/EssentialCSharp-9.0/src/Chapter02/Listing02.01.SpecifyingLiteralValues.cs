@@ -4,11 +4,11 @@
     {
         public static void Main()
         {
-            #region INCLUDE
+            //리터럴 값 거의 안쓰는편
             System.Console.WriteLine(42);
 
             System.Console.WriteLine(1.618034);
-            #endregion INCLUDE
+           
         }
     }
 }

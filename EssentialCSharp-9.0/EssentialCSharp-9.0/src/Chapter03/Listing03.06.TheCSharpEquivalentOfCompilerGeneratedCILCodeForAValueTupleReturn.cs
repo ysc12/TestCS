@@ -1,10 +1,19 @@
 namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter03.Listing03_06
 {
-    #region INCLUDE
-    [return: System.Runtime.CompilerServices.TupleElementNames(new string[] { "First", "Second" })]
-    public System.ValueTuple<string, string> ParseNames(string fullName)
+    public class Program
     {
-        // ...
+        public static void Main()
+        {
+            (string First, string Second, string Third) nameFruits = ("apple", "orange", "banana");
+
+            var nameFruit2 = ("apples", "orange", "etc");
+
+            nameFruits.First = "Eat";
+
+            Console.ReadKey();
+        }
     }
-    #endregion INCLUDE
 }
+
+//튜플 형식
+// 값 형식을 튜플로 원하는 형식을 직접 다음 구현하는 방식.

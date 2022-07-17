@@ -4,10 +4,14 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_25
     {
         public static void Main()
         {
-            #region INCLUDE
+            
             int intNumber = 31416;
             long longNumber = (long)intNumber;
-            #endregion INCLUDE
+            
         }
     }
 }
+
+//암시적 형 변환.
+
+//앞 내용 캐스팅과 비슷함

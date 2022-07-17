@@ -18,3 +18,12 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_19
         #endregion INCLUDE
     }
 }
+
+//null 소개
+
+/*
+ null은 아무것도 없음을 뜻함. (0 아님)
+ 말 그대로 Nothing을 뜻함
+
+*/
+

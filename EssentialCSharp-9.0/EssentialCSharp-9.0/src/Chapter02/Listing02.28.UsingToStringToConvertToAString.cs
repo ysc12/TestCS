@@ -13,3 +13,11 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_28
         }
     }
 }
+
+//bool 소개
+
+/*
+ 
+ 불 값 (true, false)를 나타낸다.
+
+ */
