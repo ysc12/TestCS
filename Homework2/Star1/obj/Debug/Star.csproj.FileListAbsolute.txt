@@ -1,0 +1,7 @@
+D:\Users\isr50\source\repos\Star\Star\bin\Debug\Star.exe.config
+D:\Users\isr50\source\repos\Star\Star\bin\Debug\Star.exe
+D:\Users\isr50\source\repos\Star\Star\bin\Debug\Star.pdb
+D:\Users\isr50\source\repos\Star\Star\obj\Debug\Star.csproj.AssemblyReference.cache
+D:\Users\isr50\source\repos\Star\Star\obj\Debug\Star.csproj.CoreCompileInputs.cache
+D:\Users\isr50\source\repos\Star\Star\obj\Debug\Star.exe
+D:\Users\isr50\source\repos\Star\Star\obj\Debug\Star.pdb

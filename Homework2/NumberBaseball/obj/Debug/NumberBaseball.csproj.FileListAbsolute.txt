@@ -1,0 +1,7 @@
+D:\Users\isr50\source\repos\Star\NumberBaseball\bin\Debug\NumberBaseball.exe.config
+D:\Users\isr50\source\repos\Star\NumberBaseball\bin\Debug\NumberBaseball.exe
+D:\Users\isr50\source\repos\Star\NumberBaseball\bin\Debug\NumberBaseball.pdb
+D:\Users\isr50\source\repos\Star\NumberBaseball\obj\Debug\NumberBaseball.csproj.AssemblyReference.cache
+D:\Users\isr50\source\repos\Star\NumberBaseball\obj\Debug\NumberBaseball.csproj.CoreCompileInputs.cache
+D:\Users\isr50\source\repos\Star\NumberBaseball\obj\Debug\NumberBaseball.exe
+D:\Users\isr50\source\repos\Star\NumberBaseball\obj\Debug\NumberBaseball.pdb
